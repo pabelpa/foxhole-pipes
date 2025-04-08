@@ -1,0 +1,20 @@
+[
+    {
+        "type":"lts",
+        "id":0,
+        "conn":[1],
+        "storage":50000
+    },
+    {
+        "type":"pipe",
+        "id":1,
+        "conn":[2],
+        "storage":0
+    },
+    {
+        "type":"silo",
+        "id":2,
+        "conn":[],
+        "storage":0
+    }
+]
