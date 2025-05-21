@@ -1,6 +1,6 @@
 import json
 import re
-file = "new_project.plan"
+file = "tearloch_experiment.plan"
 
 with open(file,"rb") as f:
     data = f.read()
